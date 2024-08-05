@@ -1,0 +1,46 @@
+_repo: Psyche_74136
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
+    aliases:
+    - Benda, W. T.
+    - Benda, Wladyslaw Theodore
+    - Benda, W. (Wladyslaw)
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '36188'
+    url: http://www.gutenberg.org/2009/agents/36188
+    wikipedia: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+creator:
+  author:
+    agent_name: Cramp, Walter S. (Walter Samuel)
+    alias: Cramp, W. S. (Walter Samuel)
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '57359'
+    url: http://www.gutenberg.org/2009/agents/57359
+description: ''
+gutenberg_issued: '2024-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74136'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/hvd.hn1m9c
+pgterms:marc905: 20230201022341cramp
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Carla Foust, Tim Lindell, David E. Brown, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bLittle, Brown & Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Tiberius, 14-37 -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Psyche
+url: http://www.gutenberg.org/ebooks/74136
